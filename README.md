@@ -6,7 +6,7 @@ I'm a C++ enthusiast and competitive programmer who enjoys solving challenging p
 
 - 🧮 Competitive Programming (Codeforces, AtCoder, LeetCode, ...)
 - ⚙️ Algorithms & Data Structures
-- 🧪 Exploring problem-solving techniques: Greedy, DP, Graphs, and more
+- 🧪 Exploring problem-solving techniques: Brute-Force, Binary Search, Quick Sort, Bubble Sort, and more
 
 ## 🚀 Languages & Tools
 
